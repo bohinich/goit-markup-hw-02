@@ -68,3 +68,18 @@ p{
     font-weight: 400;
     color: #434455;
 }
+
+.team{
+    background-color: #f4f4fd;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.info-team{
+    text-align: center;
+}
