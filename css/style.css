@@ -71,6 +71,7 @@ p{
 
 .team{
     background-color: #f4f4fd;
+    text-align: center;
 }
 
 h2{
@@ -78,8 +79,4 @@ h2{
     font-weight: 700;
     text-align: center;
     color: #2e2f42;
-}
-
-.info-team{
-    text-align: center;
 }
