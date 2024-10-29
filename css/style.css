@@ -1,5 +1,6 @@
 body{
     font-family: "Roboto", serif;
+    background-color: #e7e9fc;
 }
 
 a{
@@ -19,4 +20,34 @@ span{
     font-family: "Raleway", serif;
     font-weight: 700;
     font-size: 18px;
+}
+
+.nav{
+    font-size: 16px;
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.address{
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+
+h1{
+    font-size: 56px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+}
+
+button{
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #4d5ae5;
+}
+
+.title{
+    background-color: #2e2f42;
 }
