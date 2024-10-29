@@ -10,3 +10,13 @@ a{
 ul{
     list-style-type: none;
 }
+
+span{
+    color: #4d5ae5;
+}
+
+.logo{
+    font-family: "Raleway", serif;
+    font-weight: 700;
+    font-size: 18px;
+}
